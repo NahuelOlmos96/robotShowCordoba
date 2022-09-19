@@ -1,38 +1,32 @@
-.App {
-  text-align: center;
+.App{
+    height: 800px;
+    padding-top: 300px;
+    background-image: url('./imganes/FONDOPGINAROBOT.S.C_.png');
+    background-size: 100%;
+    color: antiquewhite; 
+    text-align: center;   
+}
+.contendorinformacion{
+    padding: 30px 0px;
+    display: grid;
+    grid-template-columns: 40% 60%;
+    grid-template-rows: 70%;
+    font-size: 100%;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.nav-link{
+    font-size: 130%;
+    color: aliceblue;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.contactos{
+    width: 100%;
+    background-color: black;
+    margin: 10px 0px;
+    padding: 20px 400px;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.containerfotos{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 300px ;
 }
