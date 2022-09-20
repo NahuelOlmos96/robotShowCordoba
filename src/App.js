@@ -15,30 +15,30 @@ function App() {
       <div >
         <BrowserRouter>
           <nav className="nav row">
-            <Link className="nav-link col-1" to="/">
+            <Link className="nav-link col-xl-1 col-md" to="/">
               INICIO
             </Link>
-            <Link className="nav-link col-1" to="/informacion">
+            <Link className="nav-link col-xl-1 col-md" to="/informacion">
               SERVICIO
-            </Link>  <Link className="nav-link col-1" to="/contactos">
-              CONTASCTOS
+            </Link>  <Link className="nav-link col-xl-1 col-md" to="/contactos">
+              CONTACTOS
             </Link>
           </nav>
           <div className="contendorinformacion row">
-            <div className="col-6">
+            <div className="col-xl-6 col-md-12">
               <Routes>
                 <Route path="/" element={<Logo />} />
                 <Route path="/informacion" element={<Informacion />} />
                 <Route path="/contactos" element={<Contactos />} />
               </Routes>
             </div>
-            <div className="contendorCarrucel col-6">
+            <div className="contendorCarrucel col-xl-6 col-md-12">
               <Carrucel />
             </div>
           </div>
         </BrowserRouter>
         <div className="piePagina">
-          tecnologia divercion para tu fiesta. show para todo tipo de evento
+          tecnologia diversion para tu fiesta. show para todo tipo de evento
         </div>
         
       </div>
