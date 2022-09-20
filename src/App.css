@@ -1,32 +1,24 @@
 .App{
-    height: 800px;
-    padding-top: 300px;
+    
+    padding-top: 10%;
     background-image: url('./imganes/FONDOPGINAROBOT.S.C_.png');
-    background-size: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     color: antiquewhite; 
-    text-align: center;   
-}
-.contendorinformacion{
-    padding: 30px 0px;
-    display: grid;
-    grid-template-columns: 40% 60%;
-    grid-template-rows: 70%;
-    font-size: 100%;
+    text-align: center;  
+   
 }
 
+
 .nav-link{
-    font-size: 130%;
+    
     color: aliceblue;
 }
 
-.contactos{
-    width: 100%;
-    background-color: black;
-    margin: 10px 0px;
-    padding: 20px 400px;
-}
-.containerfotos{
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    grid-template-rows: 300px ;
+.piePagina{
+    height: 200px;
+    padding-top: 100px;
+    text-align: start;
+    color: red !important;
 }
