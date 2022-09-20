@@ -6,7 +6,7 @@
     background-repeat: no-repeat;
     background-attachment: fixed;
     color: antiquewhite; 
-<<<<<<< HEAD
+
     text-align: center;   
 }
 .contendorinformacion{
@@ -15,10 +15,10 @@
     display: grid;
     grid-template-columns: 40% 60%;
     font-size: 100%;
-=======
+
    
    
->>>>>>> refs/remotes/origin/master
+
 }
 
 .contendorinformacion{
@@ -30,19 +30,6 @@
     color: aliceblue;
 }
 
-<<<<<<< HEAD
-.contactos{
-    width: 100%;
-    background-color: black;
-
-    padding: 20px 400px;
-}
-.containerfotos{
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    
-}
-=======
 .piePagina{
     height: 200px;
     padding-top: 100px;
@@ -56,4 +43,3 @@
     }
   }
     
->>>>>>> refs/remotes/origin/master
