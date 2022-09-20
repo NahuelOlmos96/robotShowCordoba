@@ -6,8 +6,19 @@
     background-repeat: no-repeat;
     background-attachment: fixed;
     color: antiquewhite; 
+
+    text-align: center;   
+}
+.contendorinformacion{
+    padding: 30px 0px;
+    height: 300px;
+    display: grid;
+    grid-template-columns: 40% 60%;
+    font-size: 100%;
+
    
    
+
 }
 
 .contendorinformacion{

@@ -10,27 +10,27 @@ export const Carrucel = () => {
       >
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img src={imagenes.imagane1} class="d-block w-100" alt="..." />
+            <img src={imagenes.imagane1} class="imagenCarrucel" alt="..." />
           </div>
           <div class="carousel-item">
-            <img src={imagenes.imagane2} class="d-block w-100" alt="..." />
+            <img src={imagenes.imagane2} class="imagenCarrucel" alt="..." />
           </div>
           <div class="carousel-item">
-            <img src={imagenes.imagane3} class="d-block w-100" alt="..." />
+            <img src={imagenes.imagane3} class="imagenCarrucel" alt="..." />
           </div><div class="carousel-item">
-            <img src={imagenes.imagane4} class="d-block w-100" alt="..." />
+            <img src={imagenes.imagane4} class="imagenCarrucel" alt="..." />
           </div><div class="carousel-item">
-            <img src={imagenes.imagane5} class="d-block w-100" alt="..." />
+            <img src={imagenes.imagane5} class="imagenCarrucel" alt="..." />
           </div><div class="carousel-item">
-            <img src={imagenes.imagane6} class="d-block w-100" alt="..." />
+            <img src={imagenes.imagane6} class="imagenCarrucel" alt="..." />
           </div><div class="carousel-item">
-            <img src={imagenes.imagane7} class="d-block w-100" alt="..." />
+            <img src={imagenes.imagane7} class="imagenCarrucel" alt="..." />
           </div><div class="carousel-item">
-            <img src={imagenes.imagane8} class="d-block w-100" alt="..." />
+            <img src={imagenes.imagane8} class="imagenCarrucel" alt="..." />
           </div><div class="carousel-item">
-            <img src={imagenes.imagane9} class="d-block w-100" alt="..." />
+            <img src={imagenes.imagane9} class="imagenCarrucel" alt="..." />
           </div><div class="carousel-item">
-            <img src={imagenes.imagane10} class="d-block w-100" alt="..." />
+            <img src={imagenes.imagane10} class="imagenCarrucel" alt="..." />
           </div>
         </div>
         <button
