@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/robotShowCordoba/static/css/main.f9f9d4a5.css",
+    "main.js": "/robotShowCordoba/static/js/main.33c7ca19.js",
+    "static/js/787.39fdf265.chunk.js": "/robotShowCordoba/static/js/787.39fdf265.chunk.js",
+    "static/media/imgcarrucel10.jpg": "/robotShowCordoba/static/media/imgcarrucel10.13372077df3ddc81c094.jpg",
+    "static/media/imgcarrucel9.jpg": "/robotShowCordoba/static/media/imgcarrucel9.c03be1da06c7a56ad138.jpg",
+    "static/media/imgcarrucel8.jpg": "/robotShowCordoba/static/media/imgcarrucel8.60dc2a570d4f82170e54.jpg",
+    "static/media/imgcarrucel6.jpg": "/robotShowCordoba/static/media/imgcarrucel6.1f87521194bc72f7e1a0.jpg",
+    "static/media/imgcarrucel7.jpg": "/robotShowCordoba/static/media/imgcarrucel7.f790dc1d3fd6b30e6301.jpg",
+    "static/media/imgcarrucel5.jpg": "/robotShowCordoba/static/media/imgcarrucel5.376c18ce5dab3cca0a06.jpg",
+    "static/media/imgcarrucel3.jpg": "/robotShowCordoba/static/media/imgcarrucel3.a61347bc9857ae9cd6fd.jpg",
+    "static/media/imgcarrucel4.jpg": "/robotShowCordoba/static/media/imgcarrucel4.65db793074a605397874.jpg",
+    "static/media/imgcarrucel2.jpg": "/robotShowCordoba/static/media/imgcarrucel2.ccc31a78b188bd981dcf.jpg",
+    "static/media/imgcarrucel1.jpg": "/robotShowCordoba/static/media/imgcarrucel1.0a397e92761a87c6619b.jpg",
+    "static/media/FONDOPGINAROBOT.S.C_.png": "/robotShowCordoba/static/media/FONDOPGINAROBOT.S.C_.41fb902c6abf59f2b056.png",
+    "static/media/instagram.png": "/robotShowCordoba/static/media/instagram.0963b7a591227164566c.png",
+    "static/media/whatapp.png": "/robotShowCordoba/static/media/whatapp.0f74af526ffeb126190c.png",
+    "static/media/logoempresa.jpeg": "/robotShowCordoba/static/media/logoempresa.fc06c4411445f7d3d01e.jpeg",
+    "static/media/tiktok.png": "/robotShowCordoba/static/media/tiktok.816e132b6240959a9463.png",
+    "index.html": "/robotShowCordoba/index.html",
+    "main.f9f9d4a5.css.map": "/robotShowCordoba/static/css/main.f9f9d4a5.css.map",
+    "main.33c7ca19.js.map": "/robotShowCordoba/static/js/main.33c7ca19.js.map",
+    "787.39fdf265.chunk.js.map": "/robotShowCordoba/static/js/787.39fdf265.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9f9d4a5.css",
+    "static/js/main.33c7ca19.js"
+  ]
+}
